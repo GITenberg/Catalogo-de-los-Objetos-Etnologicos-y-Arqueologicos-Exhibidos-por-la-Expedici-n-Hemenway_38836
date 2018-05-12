@@ -1,0 +1,59 @@
+_repo: Catalogo-de-los-Objetos-Etnologicos-y-Arqueologicos-Exhibidos-por-la-Expedici-n-Hemenway_38836
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: United States. Commission to the Madrid Exposition (1892- )
+    alias: United States Commission to the Columbian Historical Exposition at Madrid
+      (1892- )
+    gutenberg_agent_id: '40609'
+    url: http://www.gutenberg.org/2009/agents/40609
+  - agent_name: 'Exposición Histórico-Americana (1892 : Madrid, Spain)'
+    aliases:
+    - 'Exposicion Historico-Americana (1892 : Madrid, Spain)'
+    - 'Exposition historique-americaine (1892 : Madrid, Spain)'
+    - 'Exposition historique-américaine (1892 : Madrid, Spain)'
+    - Madrid. Exposición Histórico-Americana, 1892
+    gutenberg_agent_id: '36774'
+    url: http://www.gutenberg.org/2009/agents/36774
+  - agent_name: Fewkes, Jesse Walter
+    alias: Fewkes, J. Walter (Jesse Walter)
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '7741'
+    url: http://www.gutenberg.org/2009/agents/7741
+    wikipedia: http://en.wikipedia.org/wiki/J._Walter_Fewkes
+  - agent_name: Bandelier, Adolph Francis Alphonse
+    aliases:
+    - Bandelier, A. F. (Adolph Francis)
+    - Bandelier, Adolph F. (Adolph Francis)
+    - Bandelier, Adolf F.
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '7940'
+    url: http://www.gutenberg.org/2009/agents/7940
+    wikipedia: http://en.wikipedia.org/wiki/Adolph_Francis_Alphonse_Bandelier
+description: ''
+gutenberg_issued: '2012-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38836'
+  lccn: '04007017'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- Bibliography'
+- !lcc 'E011'
+- !lcsh 'New Mexico -- Antiquities'
+- !lcsh 'Arizona -- Antiquities'
+- !lcsh 'New Mexico -- Bibliography'
+- !lcsh 'Hemenway collection'
+- !lcsh 'Hopi Indians'
+- !lcsh 'Indians -- Bibliography'
+title: Catalogo de los Objetos Etnologicos y Arqueologicos Exhibidos por la Expedición
+  Hemenway
+url: http://www.gutenberg.org/ebooks/38836
