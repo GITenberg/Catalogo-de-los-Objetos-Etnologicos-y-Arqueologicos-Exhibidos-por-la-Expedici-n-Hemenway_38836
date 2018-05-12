@@ -36,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7940
     wikipedia: http://en.wikipedia.org/wiki/Adolph_Francis_Alphonse_Bandelier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38836#Catalogo-de-los-Objetos-Etnologicos-y-Arqueologicos-Exhibidos-por-la-Expedici-n-Hemenway
 gutenberg_issued: '2012-02-11'
 gutenberg_type: Text
 identifiers:
